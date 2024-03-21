@@ -1,0 +1,30 @@
+{
+  "name": "all-random-words",
+  "version": "1.0.1",
+  "description": "Return specific types of words asked by user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mrng":"^1.0.5"
+  },
+  "keywords": [
+    "random",
+    "random-words",
+    "words",
+    "all-random-words",
+    "word-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:Imtiyaz-ali/ARWG--ALL-RANDOM-WORDS-GENERATOR-.git"
+  },
+  "bugs": {
+    
+    "url": "https://github.com/Imtiyaz-ali/ARWG--ALL-RANDOM-WORDS-GENERATOR-/issues"
+  },
+  "homepage": "https://github.com/Imtiyaz-ali/ARWG--ALL-RANDOM-WORDS-GENERATOR-#readme",
+  "author": "Imtiyaz-Ali",
+  "license": "ISC"
+}
